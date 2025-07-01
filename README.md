@@ -1,5 +1,6 @@
-# Manuscript_Matrix_Metabolomics
+# Human Untargeted Metabolomics in High-Throughput Gut Microbiome Research: Ethanol vs Methanol
 
-This repo contains companing data and code for the manuscript: "Human untargeted metabolomics in the gut microbiome era: ethanol vs methanol"
+ABSTRACT
+Untargeted metabolomics is frequently performed on human fecal samples in conjunction with sequencing to unravel the gut microbiome functionality. As sample collection efforts are rapidly expanding, with individuals often collecting specimens at home, metabolomics experiments should adapt to accommodate the safety and needs of bulk off-site collections and improve high throughput. Here, we show that a 95% ethanol, safe to be shipped and handled, extraction part of the Matrix Method pipeline recovers comparable amounts of metabolites as a validated 50% methanol extraction, preserving metabolic profile differences between investigated subjects. Additionally, we show that the fecal metabolome remains relatively stable when stored in 95% ethanol for up to 1 week at room temperature. Finally, we suggest a metabolomics data analysis workflow based on robust centered log ratio transformation, which removes the variance introduced by possible different sample weights and concentrations, allowing for reliable and integration-ready untargeted metabolomics experiments in gut microbiome research.
 
-https://www.biorxiv.org/content/10.1101/2024.09.23.614605v1
+https://pubs.acs.org/doi/full/10.1021/acs.analchem.4c05142
